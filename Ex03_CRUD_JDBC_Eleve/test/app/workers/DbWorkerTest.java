@@ -1,6 +1,7 @@
 package app.workers;
 
 import app.beans.Personne;
+import app.beans.PersonneManager;
 import app.exceptions.MyDBException;
 import app.helpers.SystemLib;
 import java.util.List;
